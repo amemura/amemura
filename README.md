@@ -1,4 +1,4 @@
-## Hi there 👋
+![](https://files.catbox.moe/k1tlgi.png)
 
 <!--
 **amemura/amemura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
